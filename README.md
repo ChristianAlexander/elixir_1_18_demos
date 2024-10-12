@@ -1,7 +1,7 @@
 # Elixir 1.18 Demo
 
 A demonstration of improvements found in the Elixir 1.18 release.
-Companion repository to a YouTube video.
+Companion repository to an upcoming YouTube video.
 
 ## New Enum Methods
 Elixir 1.18 includes two new methods in the `Enum` module that make it easier (and more efficient) to add up or multiply numeric values found within maps and structs.
